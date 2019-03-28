@@ -1,7 +1,7 @@
 # Docker image for Continuous Integration
 
 ## System information
-  * Debian Stretch (Latest)
+  * Ubuntu 18.04 (Latest)
 
 ## Installed packages
 
